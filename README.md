@@ -7,4 +7,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:4500](http://localhost:4500) to view it in your browser or Postman.
 
+To install all the node modules dependencies, run the following command
+
+### `npm install`
+
 
